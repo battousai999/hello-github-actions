@@ -8,7 +8,7 @@ inputs:
     required: true
     default: "World"
 
-runas:
+runs:
   using: "docker"
   image: "Dockerfile"
 
